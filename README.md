@@ -1,8 +1,8 @@
-# dsAlgo Connects: Your Private, Real-Time Communication Hub
+# Forever Connects: Your Private, Real-Time Communication Hub
 
-**dsAlgo Connects is a full-featured, real-time chat and video calling web application built with a strong focus on user privacy and anonymity.**
+**Forever Connects is a full-featured, real-time chat and video calling web application built with a strong focus on user privacy and anonymity.**
 
-Unlike mainstream apps that require personal phone numbers, dsAlgo Connects uses a unique, shareable ID system (`jg-xxxx`), allowing you to connect and communicate securely without revealing your real-world identity. This project is built entirely with vanilla JavaScript, Firebase, and WebRTC, demonstrating a powerful, serverless architecture.
+Unlike mainstream apps that require personal phone numbers, Forever Connects uses a unique, shareable ID system (`jg-xxxx`), allowing you to connect and communicate securely without revealing your real-world identity. This project is built entirely with vanilla JavaScript, Firebase, and WebRTC, demonstrating a powerful, serverless architecture.
 
 
 ---
@@ -28,9 +28,9 @@ Unlike mainstream apps that require personal phone numbers, dsAlgo Connects uses
 
 ## 🛡️ A Focus on Privacy
 
-In a world where every application demands your personal information, dsAlgo Connects offers a refreshing alternative. The core philosophy is to provide a secure and feature-rich communication tool without compromising your anonymity.
+In a world where every application demands your personal information, Forever Connects offers a refreshing alternative. The core philosophy is to provide a secure and feature-rich communication tool without compromising your anonymity.
 
--   **No Phone Numbers:** Your account is tied to your email for password recovery, but your identity to other users is your unique **dsAlgo ID** (`jg-xxxx`).
+-   **No Phone Numbers:** Your account is tied to your email for password recovery, but your identity to other users is your unique **Forever ID** (`jg-xxxx`).
 -   **You Control Your Connections:** You can only be contacted by users with whom you have explicitly shared your ID and accepted a friend request.
 -   **Client-Side Logic:** The app runs entirely in your browser, with all data managed securely through your personal Firebase instance.
 
@@ -40,7 +40,7 @@ In a world where every application demands your personal information, dsAlgo Con
 
 ### Live Demo
 
-You can try a live version of the app here: **[dsAlgo Live Demo](https://invernesspeak.github.io/dsAlgo_Connects/)**
+You can try a live version of the app here: **[Forever Live Demo](https://invernesspeak.github.io/Forever_Connects/)**
 
 ### Local Installation & Setup
 
@@ -48,8 +48,8 @@ To run this project locally, you will need to set up your own Firebase backend.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/InvernessPeak/dsAlgo.git
-    cd dsalgo
+    git clone https://github.com/InvernessPeak/Forever.git
+    cd Forever
     ```
 
 2.  **Set up Firebase**
@@ -85,7 +85,7 @@ To run this project locally, you will need to set up your own Firebase backend.
 
 ---
 
-## How to Use dsAlgo
+## How to Use Forever
 
 1.  **Sign Up:** Create a new account using your email and a password.
 2.  **Set Up Your Profile:** You will be prompted to create your initial profile with a name and an emoji.
@@ -94,5 +94,5 @@ To run this project locally, you will need to set up your own Firebase backend.
 5.  **Communicate:** Once they accept your request, they will appear in your chats list. Tap on their name to start messaging, voice calling, or video calling!
 
 The Final one: 
-you can install and use the mobile application as well from here : https://github.com/InvernessPeak/dsAlgo/blob/main/dsAlgo.apk
+you can install and use the mobile application as well from here : https://github.com/InvernessPeak/Forever/blob/main/Forever.apk
 
